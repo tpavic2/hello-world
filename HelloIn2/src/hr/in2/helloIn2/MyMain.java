@@ -6,6 +6,8 @@ public class MyMain {
 		// TODO Auto-generated method stub
 		System.out.println("Juhu :-)");
 		// pišem i pišem i opet pišem
+		
+		int i = 100;
 	}
 
 }
