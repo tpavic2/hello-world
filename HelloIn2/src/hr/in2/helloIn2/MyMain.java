@@ -8,6 +8,7 @@ public class MyMain {
 		// pišem i pišem i opet pišem
 		
 		int i = 100;
+		i = 101;
 	}
 
 }
